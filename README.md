@@ -12,7 +12,7 @@ To clone and use this repository, follow these steps:
 4. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ghpython-basics.git
+   git clone https://github.com/ryunino/ghpython-basics.git
 
 ## Usage
 This repository includes the following basic Python script templates:

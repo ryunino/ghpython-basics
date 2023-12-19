@@ -11,7 +11,8 @@ To clone and use this repository, follow these steps:
 3. Navigate to the directory where you want to clone the repository.
 4. Run the following command to clone the repository:
 
-git clone https://github.com/your-username/ghpython-basics.git
+   ```bash
+   git clone https://github.com/your-username/ghpython-basics.git
 
 ## Usage
 This repository includes the following basic Python script templates:
